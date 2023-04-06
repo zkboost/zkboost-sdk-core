@@ -1,0 +1,26 @@
+{
+    "name": "Uniswap Labs Default",
+    "timestamp": "2023-03-24T17:25:15.361Z",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    "keywords": [
+        "zkboost",
+        "default"
+    ],
+    "tokens": [
+        {
+            "chainId": 280,
+            "address": "0x6Ed1367B394a34C7B027277345b92DD29dc2d83A",
+            "name": "Token A",
+            "symbol": "TA",
+            "decimals": 18,
+            "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+            "extensions": {}
+        }
+    ]
+}

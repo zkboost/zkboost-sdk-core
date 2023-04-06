@@ -16,7 +16,9 @@ export enum SupportedChainId {
   CELO = 42220,
   CELO_ALFAJORES = 44787,
 
-  BNB = 56
+  BNB = 56,
+
+  ZKSYNC_ERA_GOERLI = 280
 }
 
 // exports for external consumption
